@@ -1,0 +1,21 @@
+C:\Users\JuanAntonio\Documents\Clientes\Modulos\BaseDatos\V1.0.0.0\obj\Release\Comun.DataBase.csprojResolveAssemblyReference.cache
+C:\Michael Martinez\Modulos\BaseDatos\V1.0.0.0\bin\Release\Comun.DataBase.dll
+C:\Michael Martinez\Modulos\BaseDatos\V1.0.0.0\bin\Release\Comun.DataBase.pdb
+C:\Michael Martinez\Modulos\BaseDatos\V1.0.0.0\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Michael Martinez\Modulos\BaseDatos\V1.0.0.0\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Michael Martinez\Modulos\BaseDatos\V1.0.0.0\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Michael Martinez\Modulos\BaseDatos\V1.0.0.0\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Michael Martinez\Modulos\BaseDatos\V1.0.0.0\obj\Release\Comun.DataBase.dll
+C:\Michael Martinez\Modulos\BaseDatos\V1.0.0.0\obj\Release\Comun.DataBase.pdb
+C:\Michael Martinez\A1Clic\Proyectos\Prodalam\Modulos\BaseDatos\V1.0.0.0\bin\Release\Comun.DataBase.dll
+C:\Michael Martinez\A1Clic\Proyectos\Prodalam\Modulos\BaseDatos\V1.0.0.0\bin\Release\Comun.DataBase.pdb
+C:\Michael Martinez\A1Clic\Proyectos\Prodalam\Modulos\BaseDatos\V1.0.0.0\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Michael Martinez\A1Clic\Proyectos\Prodalam\Modulos\BaseDatos\V1.0.0.0\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Michael Martinez\A1Clic\Proyectos\Prodalam\Modulos\BaseDatos\V1.0.0.0\obj\Release\Comun.DataBase.csprojResolveAssemblyReference.cache
+C:\Michael Martinez\A1Clic\Proyectos\Prodalam\Modulos\BaseDatos\V1.0.0.0\obj\Release\Comun.DataBase.dll
+C:\Michael Martinez\A1Clic\Proyectos\Prodalam\Modulos\BaseDatos\V1.0.0.0\obj\Release\Comun.DataBase.pdb
+C:\Michael Martinez Temporal\9-11-2017\Prodalam\Modulos\BaseDatos\V1.0.0.0\bin\Release\Comun.DataBase.dll
+C:\Michael Martinez Temporal\9-11-2017\Prodalam\Modulos\BaseDatos\V1.0.0.0\bin\Release\Comun.DataBase.pdb
+C:\Michael Martinez Temporal\9-11-2017\Prodalam\Modulos\BaseDatos\V1.0.0.0\obj\Release\Comun.DataBase.csprojResolveAssemblyReference.cache
+C:\Michael Martinez Temporal\9-11-2017\Prodalam\Modulos\BaseDatos\V1.0.0.0\obj\Release\Comun.DataBase.dll
+C:\Michael Martinez Temporal\9-11-2017\Prodalam\Modulos\BaseDatos\V1.0.0.0\obj\Release\Comun.DataBase.pdb

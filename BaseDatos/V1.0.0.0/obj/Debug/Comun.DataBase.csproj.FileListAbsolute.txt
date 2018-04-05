@@ -1,0 +1,41 @@
+C:\Users\JuanAntonio\Documents\Clientes\Juan\SoftBan\Modulos\BaseDatos\V1.0.0.0\Comun.DataBase\obj\Debug\Comun.DataBase.csprojResolveAssemblyReference.cache
+C:\Users\JuanAntonio\Documents\Clientes\Juan\SoftBan\Modulos\BaseDatos\V1.0.0.0\Comun.DataBase\bin\Debug\Comun.DataBase.dll
+C:\Users\JuanAntonio\Documents\Clientes\Juan\SoftBan\Modulos\BaseDatos\V1.0.0.0\Comun.DataBase\bin\Debug\Comun.DataBase.pdb
+C:\Users\JuanAntonio\Documents\Clientes\Juan\SoftBan\Modulos\BaseDatos\V1.0.0.0\Comun.DataBase\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\JuanAntonio\Documents\Clientes\Juan\SoftBan\Modulos\BaseDatos\V1.0.0.0\Comun.DataBase\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\JuanAntonio\Documents\Clientes\Juan\SoftBan\Modulos\BaseDatos\V1.0.0.0\Comun.DataBase\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\JuanAntonio\Documents\Clientes\Juan\SoftBan\Modulos\BaseDatos\V1.0.0.0\Comun.DataBase\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\JuanAntonio\Documents\Clientes\Juan\SoftBan\Modulos\BaseDatos\V1.0.0.0\Comun.DataBase\obj\Debug\Comun.DataBase.dll
+C:\Users\JuanAntonio\Documents\Clientes\Juan\SoftBan\Modulos\BaseDatos\V1.0.0.0\Comun.DataBase\obj\Debug\Comun.DataBase.pdb
+C:\Users\JuanAntonio\Documents\Clientes\Juan\SoftBan\Modulos\BaseDatos\V1.0.0.0\bin\Debug\Comun.DataBase.dll
+C:\Users\JuanAntonio\Documents\Clientes\Juan\SoftBan\Modulos\BaseDatos\V1.0.0.0\bin\Debug\Comun.DataBase.pdb
+C:\Users\JuanAntonio\Documents\Clientes\Juan\SoftBan\Modulos\BaseDatos\V1.0.0.0\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\JuanAntonio\Documents\Clientes\Juan\SoftBan\Modulos\BaseDatos\V1.0.0.0\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\JuanAntonio\Documents\Clientes\Juan\SoftBan\Modulos\BaseDatos\V1.0.0.0\obj\Debug\Comun.DataBase.csprojResolveAssemblyReference.cache
+C:\Users\JuanAntonio\Documents\Clientes\Juan\SoftBan\Modulos\BaseDatos\V1.0.0.0\obj\Debug\Comun.DataBase.dll
+C:\Users\JuanAntonio\Documents\Clientes\Juan\SoftBan\Modulos\BaseDatos\V1.0.0.0\obj\Debug\Comun.DataBase.pdb
+C:\Users\JuanAntonio\Documents\Clientes\Modulos\BaseDatos\V1.0.0.0\bin\Debug\Comun.DataBase.dll
+C:\Users\JuanAntonio\Documents\Clientes\Modulos\BaseDatos\V1.0.0.0\bin\Debug\Comun.DataBase.pdb
+C:\Users\JuanAntonio\Documents\Clientes\Modulos\BaseDatos\V1.0.0.0\obj\Debug\Comun.DataBase.dll
+C:\Users\JuanAntonio\Documents\Clientes\Modulos\BaseDatos\V1.0.0.0\obj\Debug\Comun.DataBase.pdb
+C:\Users\JuanAntonio\Documents\Clientes\Modulos\BaseDatos\V1.0.0.0\obj\Debug\Comun.DataBase.csprojResolveAssemblyReference.cache
+C:\Michael\Prodalam\Modulos\BaseDatos\V1.0.0.0\bin\Debug\Comun.DataBase.dll
+C:\Michael\Prodalam\Modulos\BaseDatos\V1.0.0.0\bin\Debug\Comun.DataBase.pdb
+C:\Michael\Prodalam\Modulos\BaseDatos\V1.0.0.0\obj\Debug\Comun.DataBase.csprojResolveAssemblyReference.cache
+C:\Michael\Prodalam\Modulos\BaseDatos\V1.0.0.0\obj\Debug\Comun.DataBase.dll
+C:\Michael\Prodalam\Modulos\BaseDatos\V1.0.0.0\obj\Debug\Comun.DataBase.pdb
+C:\Michael Martinez\A1Clic\Proyectos\Prodalam\Modulos\BaseDatos\V1.0.0.0\bin\Debug\Comun.DataBase.dll
+C:\Michael Martinez\A1Clic\Proyectos\Prodalam\Modulos\BaseDatos\V1.0.0.0\bin\Debug\Comun.DataBase.pdb
+C:\Michael Martinez\A1Clic\Proyectos\Prodalam\Modulos\BaseDatos\V1.0.0.0\obj\Debug\Comun.DataBase.csprojResolveAssemblyReference.cache
+C:\Michael Martinez\A1Clic\Proyectos\Prodalam\Modulos\BaseDatos\V1.0.0.0\obj\Debug\Comun.DataBase.dll
+C:\Michael Martinez\A1Clic\Proyectos\Prodalam\Modulos\BaseDatos\V1.0.0.0\obj\Debug\Comun.DataBase.pdb
+C:\Michael\Proyectos\Prodalam\Modulos\BaseDatos\V1.0.0.0\bin\Debug\Comun.DataBase.dll
+C:\Michael\Proyectos\Prodalam\Modulos\BaseDatos\V1.0.0.0\bin\Debug\Comun.DataBase.pdb
+C:\Michael\Proyectos\Prodalam\Modulos\BaseDatos\V1.0.0.0\obj\Debug\Comun.DataBase.csprojResolveAssemblyReference.cache
+C:\Michael\Proyectos\Prodalam\Modulos\BaseDatos\V1.0.0.0\obj\Debug\Comun.DataBase.dll
+C:\Michael\Proyectos\Prodalam\Modulos\BaseDatos\V1.0.0.0\obj\Debug\Comun.DataBase.pdb
+C:\Michael Martinez Temporal\9-11-2017\Prodalam\Modulos\BaseDatos\V1.0.0.0\bin\Debug\Comun.DataBase.dll
+C:\Michael Martinez Temporal\9-11-2017\Prodalam\Modulos\BaseDatos\V1.0.0.0\bin\Debug\Comun.DataBase.pdb
+C:\Michael Martinez Temporal\9-11-2017\Prodalam\Modulos\BaseDatos\V1.0.0.0\obj\Debug\Comun.DataBase.csprojResolveAssemblyReference.cache
+C:\Michael Martinez Temporal\9-11-2017\Prodalam\Modulos\BaseDatos\V1.0.0.0\obj\Debug\Comun.DataBase.dll
+C:\Michael Martinez Temporal\9-11-2017\Prodalam\Modulos\BaseDatos\V1.0.0.0\obj\Debug\Comun.DataBase.pdb
