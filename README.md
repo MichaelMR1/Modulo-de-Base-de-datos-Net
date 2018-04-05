@@ -1,3 +1,5 @@
+<h1>Modulo de conexión a base de datos</h1>
+
 Modulo que facilita la conexión a bases de datos SQL Server y contiene métodos para ejecutar consultas SQL.
 
 Pasos para la implementación:
